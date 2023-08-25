@@ -51,8 +51,8 @@ Si la respuesta es "si" o "s" el ciclo while se repite y vuelve a empezar con la
 
 
 ## EJEMPLO DE RESULTADO
-[![Ejemplo-de-programa.png](https://i.postimg.cc/SsF8KgZZ/Ejemplo-de-programa.png)](https://postimg.cc/sBm164CS)
+![Ejemplo-de-programa.png](https://i.postimg.cc/SsF8KgZZ/Ejemplo-de-programa.png)
 
-###Fuente
-####Fuente para calcular el IMC
- -[IMSS](https://www.gob.mx/issste/es/articulos/que-es-el-indice-de-masa-corporal?idiom=es)
+### Fuente
+#### Fuente para calcular el IMC
+ - [IMSS](https://www.gob.mx/issste/es/articulos/que-es-el-indice-de-masa-corporal?idiom=es)
