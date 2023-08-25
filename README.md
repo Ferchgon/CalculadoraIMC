@@ -53,6 +53,12 @@ Si la respuesta es "si" o "s" el ciclo while se repite y vuelve a empezar con la
 ## EJEMPLO DE RESULTADO
 ![Ejemplo-de-programa.png](https://i.postimg.cc/SsF8KgZZ/Ejemplo-de-programa.png)
 
-### Fuente
-#### Fuente para calcular el IMC
+### Fuentes
+##### Fuente para calcular el IMC
  - [IMSS](https://www.gob.mx/issste/es/articulos/que-es-el-indice-de-masa-corporal?idiom=es)
+
+
+### Reflexionando
+
+Este BootCamp hasta el momento me ha ayudado a comprender un poco más sobre cómo funciona el lenguaje de programación Python.
+Aúnque al principio me costaba un poco entender cómo va funcionando el código, ya puedo comprender mejor la sintaxis y la estructura que debo llevar para el buen funcionamiento del programa que se realice.
