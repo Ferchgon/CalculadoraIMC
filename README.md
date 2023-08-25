@@ -51,21 +51,8 @@ Si la respuesta es "si" o "s" el ciclo while se repite y vuelve a empezar con la
 
 
 ## EJEMPLO DE RESULTADO
-------- CALCULADORA DE IMC -------
-Ingrese su Nombre: Luis Fernando
-Ingrese su Apellido Paterno: Gonzalez
-Ingrese su Apellido Materno: Rojas
-Ingrese su edad en años: 24
-Ingrese su peso en kg: 65
-Ingrese su estatura en metros: 1.65
+[![Ejemplo-de-programa.png](https://i.postimg.cc/SsF8KgZZ/Ejemplo-de-programa.png)](https://postimg.cc/sBm164CS)
 
-************** DATOS **************
-Nombre: Fernando Gonzalez Rojas
-Edad: 24 años
-Estatura: 1.65m
-Peso: 65.0kg
-
-Tu IMC es de 23.88
-Condición: PESO NORMAL
-
-¿Deseas calcular otro IMC? (si/no): no
+###Fuente
+####Fuente para calcular el IMC
+ -[IMSS](https://www.gob.mx/issste/es/articulos/que-es-el-indice-de-masa-corporal?idiom=es)
